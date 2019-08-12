@@ -1,0 +1,18 @@
+.top{
+    text-align: center;
+    background-image: url(./img/38.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 150px;
+    height: 468px;
+}
+.button{
+    padding-top: 40px;
+}
+.main{
+    background-color: white;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}

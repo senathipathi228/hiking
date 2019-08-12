@@ -1,0 +1,82 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+body{
+background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #74ebd5, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.paral{
+    
+    
+    background-image: url('https://cdn.dribbble.com/users/1418263/screenshots/3916990/aayi-mandabam.gif');
+    width: 100%;
+    height: 950px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+.img{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.font{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.min{
+    height: 150px;
+    padding-top: 20px;
+   
+}
+.min li{
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+.min1{
+    float: left;
+    width: 10%;
+    padding-top: 35px;
+}
+.min2{
+    float: left;
+    width: 10%;
+}
+.min::after{
+    content:  "";
+    clear: both;
+    display: table;    
+}
+.min ul{
+    margin-left: 40%;
+}
+.max{
+    height: 150px;
+    padding-top: 20px;
+    background-color: red;
+}
+.max li{
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+.min1{
+    float: left;
+    width: 10%;
+    padding-top: 35px;
+}
+.max::after{
+    content:  "";
+    clear: both;
+    display: table;    
+}
+.max ul{
+    margin-left: 40%;
+}

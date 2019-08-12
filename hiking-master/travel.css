@@ -1,0 +1,65 @@
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+    
+    color: black;
+}
+
+.img{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.button{
+    position: relative;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.min{
+    height: 150px;
+    background-color: white;
+}
+.min li{
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+.min1{
+    float: left;
+    width: 10%;
+    padding-top: 35px;
+}
+.min::after{
+    content:  "";
+    clear: both;
+    display: table;    
+}
+.min ul{
+    
+}
+.forms{
+    padding-top: 50px;
+    margin-left: 35%;
+}
+.search{
+    padding-left: 20px;
+    text-align: center;
+}
+.cal{
+    text-align: center;
+}
+
+#center {
+    text-align: center;
+}

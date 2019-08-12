@@ -1,0 +1,58 @@
+.space{
+    padding-top: 30px;
+}
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin-left: 90px;
+}
+.a{
+    background-image: url(./img/23.jpg);
+}
+.b{
+    background-image: url(./img/84.jpg);
+}
+.c{
+    background-image: url(./img/82.jpg);
+}
+.d{
+    background-image: url(./img/83.jpg);
+}
+.e{
+    background-image: url(./img/50.jpg);
+}
+.f{
+    background-image: url(./img/77.jpg);
+}
+.g{
+    background-image: url(./img/76.jpg
+);
+}
+.h{
+    background-image: url(./img/62.jpg
+);
+}
+.i{
+    background-image: url(./img/79.jpg
+);
+}
+.para{
+    padding-top: 250px;
+    color: white;
+}
+.custom-file{
+    padding-top: 50px;
+}
+.two{
+    padding-top: 50px;
+}
+.three{
+    padding-top: 50px;
+}
+.see{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
